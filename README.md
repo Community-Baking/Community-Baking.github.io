@@ -1,2 +1,1 @@
-# Community-Baking.github.io
-Gather. Bake. Share.
+# Gather. Bake. Share.
